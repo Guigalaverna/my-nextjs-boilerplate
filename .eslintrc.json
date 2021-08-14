@@ -18,6 +18,7 @@
     "react/react-in-jsx-scope": "off",
     "space-before-function-paren": "off",
     "semi": "off",
-    "quotes": "off"
+    "quotes": "off",
+    "no-unused-vars": "warn"
   }
 }
