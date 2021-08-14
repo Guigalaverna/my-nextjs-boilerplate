@@ -1,0 +1,24 @@
+{
+  "name": "my-nextjs-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Guigalaverna/my-nextjs-boilerplate.git",
+  "author": "Guigalaverna <guigalaverna@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^11.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.6.1",
+    "@types/react": "^17.0.17",
+    "typescript": "^4.3.5"
+  }
+}
