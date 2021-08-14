@@ -4,5 +4,14 @@ export const theme = extendTheme({
   fonts: {
     heading: 'Roboto',
     body: 'Roboto'
+  },
+
+  styles: {
+    global: {
+      body: {
+        background: 'gray.900',
+        color: 'gray.50'
+      }
+    }
   }
 })
