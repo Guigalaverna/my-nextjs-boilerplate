@@ -12,8 +12,8 @@ export default function Home() {
         h="lg"
         w="lg"
         p="5"
-        borderRadius='16'
-        boxShadow='base'
+        borderRadius="16"
+        boxShadow="base"
       >
         <HStack spacing="4">
           <Image src="/images/next-js.svg" alt="Next.js logo" w="16" h="16" />
@@ -23,13 +23,13 @@ export default function Home() {
           <Image
             src="/images/chakra-ui.jpg"
             alt="Next.js logo"
-            w="16"
+            w=" 16"
             h="16"
             clipPath="circle()"
           />
         </HStack>
         <Heading as="h1">Next.js boilerplate</Heading>
-        <Text as='span'>❤️</Text>
+        <Text as="span">❤️</Text>
       </VStack>
     </Flex>
   );
